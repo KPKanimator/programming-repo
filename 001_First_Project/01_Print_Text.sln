@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "01_Print_Text", "01_Print_T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "02_ShowRussianText", "02_ShowRussianText\02_ShowRussianText.vcxproj", "{17E5D84A-9868-4C31-9F92-99E8BEB4BEBC}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03_PauseScreen", "03_PauseScreen\03_PauseScreen.vcxproj", "{20AB39F0-23F7-4971-9777-D3745D9A1CBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{17E5D84A-9868-4C31-9F92-99E8BEB4BEBC}.Release|x64.Build.0 = Release|x64
 		{17E5D84A-9868-4C31-9F92-99E8BEB4BEBC}.Release|x86.ActiveCfg = Release|Win32
 		{17E5D84A-9868-4C31-9F92-99E8BEB4BEBC}.Release|x86.Build.0 = Release|Win32
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Debug|x64.ActiveCfg = Debug|x64
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Debug|x64.Build.0 = Debug|x64
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Debug|x86.Build.0 = Debug|Win32
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Release|x64.ActiveCfg = Release|x64
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Release|x64.Build.0 = Release|x64
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Release|x86.ActiveCfg = Release|Win32
+		{20AB39F0-23F7-4971-9777-D3745D9A1CBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
