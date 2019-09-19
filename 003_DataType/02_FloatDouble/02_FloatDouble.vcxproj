@@ -23,6 +23,7 @@
     <ProjectGuid>{30118810-D5F5-4FDF-8BDC-644C6BB71909}</ProjectGuid>
     <RootNamespace>My02FloatDouble</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+    <ProjectName>04_FloatDouble</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
