@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-  setlocale(LC_ALL, "rus");
+  setlocale(LC_ALL, "Russian");
 
   int a = 3, b = 2;
   if (a < b)
@@ -12,9 +12,9 @@ int main()
   }
   else
   {
-    cout << "a не меньше b" << endl;
+    cout << "a not less b" << endl;
   }
-  cout << "Эта строка выполнится всегда!" << endl;
+  cout << "This line is always executed!" << endl;
 
   system("PAUSE");
   return EXIT_SUCCESS;
