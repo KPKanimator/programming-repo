@@ -10,11 +10,11 @@ int main()
 
   if ((x >= -2) && (x <= 2) && (y >= -1) && (y <= 1))
   {
-    cout << "Есть контакт!!!";
+    cout << "The point inside the area";
   }
   else
   {
-    cout << "НЭТ контакт :(";
+    cout << "The point outside area :(";
   }
   cout << endl;
 

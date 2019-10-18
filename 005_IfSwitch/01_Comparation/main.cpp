@@ -7,22 +7,22 @@ int main()
   bool result;
 
   cout.setf(ios::boolalpha);
-  // > - больше
+  // > - operator greater than 
   result = a > b;
-  cout << "a > b = " << result << endl;
-  // >= - больше или равно
+  cout << "a > b =" << result << endl;
+  // >= - operator greater than or equal
   result = a >= b;
-  cout << "a >= b = " << result << endl;
-  // < - меньше
+  cout << "a >= b =" << result << endl;
+  // < - operator less
   result = a < b;
-  cout << "a < b = " << result << endl;
-  // <= - меньше или равно
+  cout << "a < b =" << result << endl;
+  // <= - operator less than or equal to
   result = a <= b;
-  cout << "a <= b = " << result << endl;
-  // == - оператор равенства
+  cout << "a <= b =" << result << endl;
+  // == - equality operator
   result = a == b;
-  cout << "a == b = " << result << endl;
-  // != - оператор неравенства
+  cout << "a == b =" << result << endl;
+  // != - inequality operator
   result = a != b;
   cout << "a != b = " << result << endl;
   system("PAUSE");

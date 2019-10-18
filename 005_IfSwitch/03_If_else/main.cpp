@@ -3,8 +3,6 @@ using namespace std;
 
 int main()
 {
-  setlocale(LC_ALL, "Russian");
-
   int a = 3, b = 2;
   if (a < b)
   {
