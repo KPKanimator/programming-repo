@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+// Статическая переменная на уровне класса
 static int x = 110;
 
 int main()
