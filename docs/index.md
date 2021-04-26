@@ -6,4 +6,5 @@
 
 ### Support or Contact
 
-Дополнительный метериал можно найти у меня в блоге [Blog](https://korobchinskiy.com) или информацию обо мне на нашем [кафедральном сайте](https://k304.khai.edu/). Ф если хотите [задать вопрос](https://t.me/KPKanimator).
+Дополнительный метериал можно найти у меня в блоге [Blog](https://korobchinskiy.com) или информацию обо мне на нашем [кафедральном сайте](https://k304.khai.edu/). 
+#### A если хотите [задать вопрос](https://t.me/KPKanimator).
