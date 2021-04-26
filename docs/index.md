@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## О курсе / About the Course
 
-You can use the [editor on GitHub](https://github.com/KPKanimator/programming-repo/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Как и любая профессия путь становления разработчика начинается с основ. На начальных этапах изучения программирования все языки отличаются своим синтаксисом, но фундаментальная база у них едина. Неважно какой язык программирования для изучения ты выберешь, будь это Java, Python, C# или JavaScript, такие понятия, как "переменные", "циклы", "массивы" и "функции" ты встретишь в каждом из них. В начале обучения на любом из выбранных языков программирования ты напишешь свой первый код, который будет выводить фразу "Hello World", с которой и начинается путь каждого разработчика.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KPKanimator/programming-repo/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Бытует мнение, что для того, чтобы стать разработчиком, нужно обязательно знать математику или иметь математический склад ума, но это не так.  Эти качества действительно будут большим плюсом, но для начинающего разработчика, самым главным качеством будет логика, потому что именно на логических операциях построено всё программирование.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Дополнительный метериал можно найти у меня в блоге [Blog](https://korobchinskiy.com) или информацию обо мне на нашем [кафедральном сайте](https://k304.khai.edu/). Ф если хотите [задать вопрос] (https://t.me/KPKanimator).
