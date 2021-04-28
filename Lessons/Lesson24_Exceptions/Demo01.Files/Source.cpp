@@ -1,6 +1,6 @@
 #include <string>
 #include <iostream>
-#include <fstream>      // std::ifstream
+#include <fstream>
 using namespace std;
 
 ifstream open(const char* fname)
@@ -28,7 +28,7 @@ int main()
   }
   catch (const char* str)
   {
-    cout << "Impossible to open file " << str << "!\n";
+    cerr << "Impossible to open file " << str << "!\n";
     system("pause");
     return EXIT_FAILURE;
   }
