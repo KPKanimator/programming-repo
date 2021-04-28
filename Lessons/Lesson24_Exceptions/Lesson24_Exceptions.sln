@@ -11,11 +11,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo03.TryCatch", "Demo03.T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo04.TryCatch", "Demo04.TryCatch\Demo04.TryCatch.vcxproj", "{21F2A364-0B12-48B5-AB4C-BF0D3838EDC8}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo05.Catchs", "Demo5.Catchs\Demo5.Catchs.vcxproj", "{4D462677-7C4F-44D9-903A-4AB2585D82BC}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo05.Catchs", "Demo05.Catchs\Demo05.Catchs.vcxproj", "{4D462677-7C4F-44D9-903A-4AB2585D82BC}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo06.Ecxeption", "Demo06.Ecxeption\Demo06.Ecxeption.vcxproj", "{5ECA2754-CBDB-454B-8E29-C1ED5B266713}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo7.ArrayInt", "Demo7.ArrayInt\Demo7.ArrayInt.vcxproj", "{06AE4567-5263-4ADF-9F42-76DD89910A22}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Demo07.ArrayInt", "Demo07.ArrayInt\Demo07.ArrayInt.vcxproj", "{06AE4567-5263-4ADF-9F42-76DD89910A22}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
