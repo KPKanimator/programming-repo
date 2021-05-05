@@ -13,10 +13,11 @@ int main()
   try
   {
     if (a < 0.0)
-      throw "Can not take sqrt of negative number";
+      //throw "Can not take sqrt of negative number";
       //throw exception();
       //throw invalid_argument("sqrt of negative number");
       //throw runtime_error("Bad things happened");
+      throw 1;
 
     cout << "The sqrt of " << a << " is " << sqrt(a) << endl;
   }

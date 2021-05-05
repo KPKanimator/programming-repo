@@ -13,6 +13,7 @@ ifstream open(const char* fname)
 
 int main()
 {
+  //...
   try
   {
     ifstream f1 = open("in1.txt");
