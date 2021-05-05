@@ -36,10 +36,12 @@ int main()
 	ArrayInt array;
 	try
 	{
-		int value = array[7];
+		cout << array[3] << endl;
 	}
 	catch (ArrayException& exception)
 	{
 		cerr << "An array exception occurred (" << exception.getError() << ")\n";
 	}
+	system("pause");
+	return EXIT_SUCCESS;
 }
