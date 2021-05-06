@@ -1,5 +1,5 @@
 /*
- * Course: CS215-00x
+ * Course: Alhoritms Theory
  * Project: Extra Task 3
  * Purpose: this program repeatedly allows the user
  *         until the user chooses to quit the program
