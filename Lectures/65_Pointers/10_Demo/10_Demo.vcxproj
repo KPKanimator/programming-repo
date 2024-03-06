@@ -24,6 +24,7 @@
     <ProjectGuid>{2198567D-7EDF-4CA6-AA6F-F6B67EA63318}</ProjectGuid>
     <RootNamespace>My03Demo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>10_Demo Dymamic Array</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

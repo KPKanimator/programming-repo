@@ -23,6 +23,7 @@ int main()
 #pragma endregion
   
 	auto a = 0.0; // переменная а имеет тип double, так как 0.0 - это double 
+	cout << sizeof(a);
 
 	double b = 0; // 0 автоматически преобразуется в 0.0
 
@@ -37,5 +38,6 @@ int main()
 }
 
 /* ------  RESULT  -------
+8
 
 */

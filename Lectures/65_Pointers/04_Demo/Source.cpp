@@ -44,5 +44,11 @@ int main()
 }
 
 /* ------  RESULT  -------
+    Address of prt_int 0000000000000000
+    Address of &prt_int 00000069556FF498
+    Address of &prt_int2 00000069556FF4D8
+    Address of &prt_int2 00000069556FF4D8
+     x is 9
+     reference x is 9
 
 */

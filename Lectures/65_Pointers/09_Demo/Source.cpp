@@ -21,8 +21,8 @@ int main()
 	SetConsoleOutputCP(1251);
 	setlocale(LC_ALL, "Ukrainian");
 #pragma endregion
-	cout << "DAAD Pylypenko Kateryna; group 315а" << endl;
-	cout << "Лабораторна робота #8, варіант 9." << endl;
+	cout << "Author: Kirill Korobchinsky" << endl;
+	cout << "Practice #8, var 9." << endl;
 	cout << endl;
 
 	double A = 5.5;

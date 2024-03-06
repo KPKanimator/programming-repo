@@ -34,5 +34,9 @@ int main()
 }
 
 /* ------  RESULT  -------
+  &var    = 000000EA5E0FF924
+  ptr_var = 000000EA5E0FF924
+  var     = 123
+  *ptrvar = 123
 
 */

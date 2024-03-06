@@ -21,38 +21,48 @@ int main()
 	SetConsoleOutputCP(1251);
 	setlocale(LC_ALL, "Ukrainian");
 #pragma endregion
-	cout << "Choose one of the menu items:" << endl;
-	cout << "1. Task 1." << endl;
-	cout << "2. Task 2." << endl;
-	cout << "3. Task 3." << endl;
 
-	char action;
-	cin >> action;
-
-	switch (action)
+	for (;;)
 	{
+		cout << "Choose one of the menu items:" << endl;
+		cout << "0. Exit." << endl;
+		cout << "1. Task 1." << endl;
+		cout << "2. Task 2." << endl;
+		cout << "3. Task 3." << endl;
+
+		char action;
+		cin >> action;
+
+		switch (action)
+		{
+		case '0':
+		{
+			//break;
+			return EXIT_SUCCESS;
+		}
 		case '1':
 		{
 			cout << "The assignment of an arithmetic expression" << endl;
-			break;
+			//break;
 		}
 		case '2':
 		{
 			cout << "Given a logical expression" << endl;
-			break;
+			//break;
 		}
 		case '3':
 		{
 			cout << "The assignment is a graphic area" << endl;
-			break;
+			//break;
 		}
-		default:
-		{
-			cout << "Wrong choice, try again!";
-			break;
+		//default:
+		//{
+		//	cout << "Wrong choice, try again!";
+		//	//break;
+		//}
 		}
-	}
-
+	system("pause>nul");
+}
 
 	system("pause>nul");
 	return EXIT_SUCCESS;

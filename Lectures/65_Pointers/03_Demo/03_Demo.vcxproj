@@ -24,6 +24,7 @@
     <ProjectGuid>{af4f4aec-73ed-42b5-8fcf-2b04fd819146}</ProjectGuid>
     <RootNamespace>My03Demo</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>03_Demo Compare Pointers</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
