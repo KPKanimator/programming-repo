@@ -29,6 +29,8 @@ int main()
 	y = cos(A - M_PI) / (0.5E-2 * pow(A, 3));
 	cout << "Task 1: y = " << y << endl;
 
+	y =  (11 / 4.) / 1.1 + 10 / 3.;
+
 	system("pause>nul");
 	return EXIT_SUCCESS;
 }
