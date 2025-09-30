@@ -42,3 +42,5 @@
 /Lectures/Lectures06/Demo01/x64/Debug
 /Lectures/Lectures06/.vs/Lectures06
 /.vs
+preset.cpp
+Clean-VisualStudio-TempFiles.bat
