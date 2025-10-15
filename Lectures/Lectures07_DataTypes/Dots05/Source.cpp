@@ -3,10 +3,10 @@ using namespace std;
 
 int main()
 {
-	short a = 0, b = 0;
+	unsigned short int a = 0, b = 0;
 	cin >> a >> b;
 	cout << a + b;
 
-	//system("pause>nul");
+	system("pause>nul");
 	return 0;
 }
