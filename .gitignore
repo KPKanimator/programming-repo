@@ -434,5 +434,5 @@ Lectures/140_Classes/11_Demo_Tests/
 
 **/![Ss]rc/
 **/.[Ss]rc/
-preset.cpp
+/preset.cpp
 Clean-VisualStudio-TempFiles.bat
