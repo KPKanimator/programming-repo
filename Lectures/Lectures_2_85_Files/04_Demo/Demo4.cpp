@@ -36,6 +36,7 @@ int main()
 			mas[i][j] = rand() % 10; // Випадкове число в межах від 0 до 9
 			cout << mas[i][j] << " ";
 		}
+		cout << endl;
 	}
 	cout << endl;
 

@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Demo11.cpp">
+    <ClCompile Include="Pass_by_reference.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
